@@ -27,7 +27,7 @@ I'm eager to learn anything that catches my attention and imagination, and have 
 ### [NYC Airbnb Market Analysis](https://github.com/SebastianMarrero/NYC_AirBNB_Analysis)
 Analyzed short-term rental trends using SQL, Python, and Tableau. Includes sentiment analysis from guest reviews and pricing premium analysis for Superhosts.
 
-### [Unicorn Companies SQL Project](https://github.com/SebastianMarrero/Unicorn_SQL_Analysis)
+### [Unicorn Companies SQL Project](https://github.com/SebastianMarrero/Unicorn_SQL_Project)
 SQL-driven analysis of global unicorn companies. Explores funding rounds, ROI ratios, and geographic trends using MySQL and Tableau visualizations.
 
 ### [Customer Churn Analysis (In Progress)](#)
