@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Sebastian Marrero
 
-<!--
-**SebastianMarrero/SebastianMarrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub. I'm a data-driven professional with experience in financial technology, SaaS, and data analysis. I use SQL, Python, Tableau, and Jupyter to turn messy data into clear insights. Whether it's building dashboards, modeling churn, or analyzing unicorn companies, I'm always pushing to make data actionable and stories compelling.
 
-Here are some ideas to get you started:
+In addition to driving data-backed insights, I'm curious about building business strategy and how the global market interacts with each other, whether via the expansive global supply chain, in the equity markets, or the political sphere. I'm equally interested in the psychology side of business, with the idea of black swans - extremely improbable events with enormous impact and consequences proposed by former options trader author Nassim Nicholas Taleb - being the focal point of my studies as I read his book "The Black Swan" for leisure. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm eager to learn anything that catches my attention and imagination, and have centered my professional ambitions around employing the knowledge and skillset I've cultivated to help businesses sharing my vision and values achieve their goals and objectives.
+
+## About Me
+
+- Economics graduate from Vanderbilt University (minors in Business and Data Science)
+- Analyst at Nomura | Instinet Technology Solutions (SaaS + Market Data)
+- Hands-on with Tableau, Python, SQL, and agile workflows in cross-functional tech environments
+- Building a portfolio of end-to-end projects across fintech and startup ecosystems
+- Based in NYC | Open to roles in data, strategy, or product analytics
+
+## Technical Skills
+
+- Languages: Python, SQL, R
+- Data Tools: Jupyter, Tableau, MySQL, PostgreSQL, pgAdmin, Excel
+- ML & Analysis: pandas, NumPy, scikit-learn, matplotlib, seaborn, TextBlob
+- Workflows: Agile, Jira, Confluence, Git, GitHub, Salesforce CRM
+- Certifications: SIE, Series 7, 63, 57 | Fluent in Spanish
+
+## Featured Projects
+
+### [NYC Airbnb Market Analysis](https://github.com/SebastianMarrero/NYC_AirBNB_Analysis)
+Analyzed short-term rental trends using SQL, Python, and Tableau. Includes sentiment analysis from guest reviews and pricing premium analysis for Superhosts.
+
+### [Unicorn Companies SQL Project](https://github.com/SebastianMarrero/Unicorn_SQL_Analysis)
+SQL-driven analysis of global unicorn companies. Explores funding rounds, ROI ratios, and geographic trends using MySQL and Tableau visualizations.
+
+### [Customer Churn Analysis (In Progress)](#)
+Python-based churn modeling project using classification techniques and exploratory data analysis to understand customer retention behaviors.
+
+## Professional Experience Highlights
+
+- Nomura / Instinet: Led onboarding for 40+ market connections generating $244K+ ARR, built Tableau dashboards to track algo performance, and led A/B testing to enhance UX and reduce client response times by 60%.
+- Bernstein (Internship): Assisted in advisory for clients with $1.6B AUM and conducted qualitative research on entrepreneurship networks.
+
+## Currently Working On
+
+- Finalizing a churn prediction model using Python and ML pipelines
+- Publishing Tableau dashboards and portfolio case studies
+- Enhancing my Jekyll-powered personal site hosted on GitHub Pages
+- Exploring roles that bridge data, product, and strategy
+
+## Personal Writing and Interests
+
+In addition to data and analytics, I have a strong interest in political philosophy and critical theory. During my time at Vanderbilt, I authored a research paper for my 2021 Critical Theory Philosophy course, where I explored the historical relationship between capitalism and racism through the lens of Nancy Fraser’s work:
+
+[Read the paper: *Capitalism’s Contingent Entanglement with Racism*](https://github.com/YourUsername/YourRepo/blob/main/Writing%20Sample.pdf)
+
+Outside of work, I enjoy spending quality time with friends, basketball, listening to music and music production, or reading about global markets and business psychology.
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/sebastianmarrero)
+- [Portfolio Website](https://sebastianmarrero.github.io/Sebastians-Portfolio/)
+- Email: sebastianmarrero64@gmail.com
+
+---
+
+Thanks for visiting. Feel free to explore my repositories, personal website, or reach out.
