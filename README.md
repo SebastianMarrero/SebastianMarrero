@@ -49,7 +49,7 @@ Python-based churn modeling project using classification techniques and explorat
 
 In addition to data and analytics, I have a strong interest in political philosophy and critical theory. During my time at Vanderbilt, I authored a research paper for my 2021 Critical Theory Philosophy course, where I explored the historical relationship between capitalism and racism through the lens of Nancy Fraser’s work:
 
-[Read the paper: *Capitalism’s Contingent Entanglement with Racism*](https://github.com/YourUsername/YourRepo/blob/main/Writing%20Sample.pdf)
+[Read the paper: *Capitalism’s Contingent Entanglement with Racism*](https://github.com/SebastianMarrero/SebastianMarrero/blob/main/Writing%20Sample.pdf)
 
 Outside of work, I enjoy spending quality time with friends, basketball, listening to music and music production, or reading about global markets and business psychology.
 
