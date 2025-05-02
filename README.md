@@ -25,6 +25,7 @@ I'm eager to learn anything that catches my attention and imagination, and have 
 ## Featured Projects
 
 ### [SaaS Subscription Churn Analysis and Modeling](https://github.com/SebastianMarrero/SAAS-Churn-Analysis-Project)
+Performed exploratory data analysis and modeling on artificially-generated, realistic subscrition service customer churn and usage data.
 
 ### [NYC Airbnb Market Analysis](https://github.com/SebastianMarrero/NYC_AirBNB_Analysis)
 Analyzed short-term rental trends using SQL, Python, and Tableau. Includes sentiment analysis from guest reviews and pricing premium analysis for Superhosts.
