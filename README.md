@@ -1,6 +1,6 @@
 # Hi, I'm Sebastian Marrero
 
-Welcome to my GitHub. I'm a data-driven professional with experience in financial technology, SaaS, and data analysis. I use SQL, Python, Tableau, and Jupyter to turn messy data into clear insights. Whether it's building dashboards, modeling churn, or analyzing unicorn companies, I'm always pushing to make data actionable and stories compelling.
+Welcome to my GitHub. I'm a data-driven professional with experience in financial technology, SaaS, and data analysis. I use SQL, Python, Tableau, and Jupyter to turn messy data into clear insights. Whether it's through modeling credit card fraud in an expansive analysis, building dashboards for the NYC airbnb housing market, modeling SaaS customer churn, or analyzing unicorn companies, I'm always striving to build perspective through data and make the world and its infinite complexities a little easier to understand.
 
 In addition to driving data-backed insights, I'm curious about building business strategy and how the global market interacts with each other, whether via the expansive global supply chain, in the equity markets, or the political sphere. I'm equally interested in the psychology side of business, with the idea of black swans - extremely improbable events with enormous impact and consequences proposed by former options trader author Nassim Nicholas Taleb - being the focal point of my studies as I read his book "The Black Swan" for leisure. 
 
@@ -9,9 +9,8 @@ I'm eager to learn anything that catches my attention and imagination, and have 
 ## About Me
 
 - Economics graduate from Vanderbilt University (minors in Business and Data Science)
-- Analyst at Nomura | Instinet Technology Solutions (SaaS + Market Data)
+- Analyst at Nomura | Instinet Technology Solutions (SaaS + Equity Trading)
 - Hands-on with Tableau, Python, SQL, and agile workflows in cross-functional tech environments
-- Building a portfolio of end-to-end projects across fintech and startup ecosystems
 - Based in NYC | Open to roles in data, strategy, or product analytics
 
 ## Technical Skills
