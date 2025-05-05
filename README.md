@@ -16,11 +16,12 @@ I'm eager to learn anything that catches my attention and imagination, and have 
 
 ## Technical Skills
 
-- Languages: Python, SQL, R
-- Data Tools: Jupyter, Tableau, MySQL, PostgreSQL, pgAdmin, Excel
+- Languages: Python, SQL, RStudio
+- Data Tools: Jupyter, Tableau, MySQL, DBeaver, PostgreSQL, pgAdmin4, Excel
 - ML & Analysis: pandas, NumPy, scikit-learn, matplotlib, seaborn, TextBlob
 - Workflows: Agile, Jira, Confluence, Git, GitHub, Salesforce CRM
-- Certifications: SIE, Series 7, 63, 57 | Fluent in Spanish
+- Certifications: SIE, Series 7, 63, 57
+- Fluent in Spanish
 
 ## Featured Projects
 
@@ -40,7 +41,8 @@ SQL-driven analysis of global unicorn companies. Explores funding rounds, ROI ra
 
 ## Currently Working On
 
-- Finalizing a churn prediction model using Python and ML pipelines
+- Music
+- Continuing data analysis related projects that refine my data skills and help me understand the world a little better
 - Publishing Tableau dashboards and portfolio case studies
 - Enhancing my Jekyll-powered personal site hosted on GitHub Pages
 - Exploring roles that bridge data, product, and strategy
