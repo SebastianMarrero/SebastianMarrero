@@ -39,12 +39,11 @@ SQL-driven analysis of global unicorn companies. Explores funding rounds, ROI ra
 - Bernstein (Internship): Assisted in advisory for clients with $1.6B AUM and conducted qualitative research on entrepreneurship networks.
 
 ## Currently Working On
-
-- Music
 - Continuing data analysis related projects that refine my data skills and help me understand the world a little better
 - Publishing Tableau dashboards and portfolio case studies
 - Enhancing my Jekyll-powered personal site hosted on GitHub Pages
 - Exploring roles that bridge data, product, and strategy
+- Music
 
 ## Personal Writing and Interests
 
