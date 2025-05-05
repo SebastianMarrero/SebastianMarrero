@@ -33,9 +33,6 @@ Analyzed short-term rental trends using SQL, Python, and Tableau. Includes senti
 ### [Unicorn Companies SQL Project](https://github.com/SebastianMarrero/Unicorn_SQL_Project)
 SQL-driven analysis of global unicorn companies. Explores funding rounds, ROI ratios, and geographic trends using MySQL and Tableau visualizations.
 
-### [Customer Churn Analysis (In Progress)](#)
-Python-based churn modeling project using classification techniques and exploratory data analysis to understand customer retention behaviors.
-
 ## Professional Experience Highlights
 
 - Nomura / Instinet: Led onboarding for 40+ market connections generating $244K+ ARR, built Tableau dashboards to track algo performance, and led A/B testing to enhance UX and reduce client response times by 60%.
