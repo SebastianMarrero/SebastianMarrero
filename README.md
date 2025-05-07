@@ -23,6 +23,8 @@ I'm eager to learn anything that catches my attention and imagination, and have 
 - Fluent in Spanish
 
 ## Featured Projects
+### [Credit Card Fraud analysis and modeling](https://github.com/SebastianMarrero/Credit-Card-Fraud-Analysis))
+Performed exploratory data analysis and modeling on synthetic, feature-engineered bank application data using classification models like Logistic Regression and Gradient boosting (XGBoost, LightGBM) to accurately predict fraudulent application cases in a highly imbalanced data set. 
 
 ### [SaaS Subscription Churn Analysis and Modeling](https://github.com/SebastianMarrero/SAAS-Churn-Analysis-Project)
 Performed exploratory data analysis and modeling on artificially-generated, realistic subscrition service customer churn and usage data.
