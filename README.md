@@ -17,7 +17,7 @@ I'm eager to learn anything that catches my attention and imagination, and have 
 
 - Languages: Python, SQL, RStudio
 - Data Tools: Jupyter, Tableau, MySQL, DBeaver, PostgreSQL, pgAdmin4, Excel
-- ML & Analysis: pandas, NumPy, scikit-learn, matplotlib, seaborn, TextBlob
+- ML & Analysis: pandas, NumPy, scikit-learn, matplotlib, seaborn, TextBlob, classification Modeling (LightGBM, XGBoost, Logistic Regression), 
 - Workflows: Agile, Jira, Confluence, Git, GitHub, Salesforce CRM
 - Certifications: SIE, Series 7, 63, 57
 - Fluent in Spanish
