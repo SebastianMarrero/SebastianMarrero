@@ -37,8 +37,8 @@ SQL-driven analysis of global unicorn companies. Explores funding rounds, ROI ra
 
 ## Professional Experience Highlights
 
-- Nomura / Instinet: Led onboarding for 40+ market connections generating $244K+ ARR, built Tableau dashboards to track algo performance, and led A/B testing to enhance UX and reduce client response times by 60%.
-- Bernstein (Internship): Assisted in advisory for clients with $1.6B AUM and conducted qualitative research on entrepreneurship networks.
+- Nomura / Instinet: Leading onboarding for 40+ market connections generating $200K+ ARR, building Tableau dashboards to track algo performance, and leading A/B testing to enhance UX and quicken client response times by up to 60%.
+- Bernstein (Internship): Assisted in advisory for clients with $1.6B AUM and conducted qualitative research on entrepreneurship networks, additionally presenting three different projects on client verticals, investment vehicles, and improving Bernstein's business model.
 
 ## Currently Working On
 - Continuing data analysis related projects that refine my data skills and help me understand the world a little better
