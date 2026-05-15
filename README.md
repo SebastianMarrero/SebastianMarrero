@@ -1,17 +1,22 @@
 # Hi, I'm Sebastian Marrero
 
-Welcome to my GitHub. I'm a data-driven professional with experience in financial technology, SaaS, and data analysis. I use SQL, Python, Tableau, and Jupyter to turn messy data into clear insights. Whether it's through modeling credit card fraud in an expansive analysis, building dashboards for the NYC airbnb housing market, modeling SaaS customer churn, or analyzing unicorn companies, I'm always striving to build perspective through data and make the world and its infinite complexities a little easier to understand.
+Welcome to my GitHub. I’m interested in the intersection of AI, commerce, and design. I'm especially drawn to the kinds of products that remove complexity and make complicated systems feel intuitive.
+Lately I’ve been building Archive, a natural language search engine for archive and vintage menswear. I originally built it out of frustration with how fragmented the resale market felt across different platforms. It now searches across 15 resale marketplaces and luxury fashion retailers, uses the Claude API to interpret natural language queries, and includes AI-assisted pricing suggestions. 
 
-In addition to driving data-backed insights, I'm curious about building business strategy and how the global market interacts with each other, whether via the expansive global supply chain, in the equity markets, or the political sphere. I'm equally interested in the psychology side of business, with the idea of black swans - extremely improbable events with enormous impact and consequences proposed by former options trader author Nassim Nicholas Taleb - being the focal point of my studies as I read his book "The Black Swan" for leisure. 
+Before that, I worked at Instinet, part of Nomura Securities, where I sat close to the intersection of financial markets, technology, and software product development. The work ranged from electronic trading infrastructure and client analytics to collaborating across software engineering and product teams. I hold Series 7, 57, and 63 licenses and graduated from Vanderbilt University in 2023 with a degree in Economics and minors in Business and Data Science after transferring from community college.
 
-I'm eager to learn anything that catches my attention and imagination, and have centered my professional ambitions around employing the knowledge and skillset I've cultivated to help businesses sharing my vision and values achieve their goals and objectives.
+Earlier this year I completed Columbia's LEAP program, where I worked with machine learning models and large-scale climate datasets using Python. I tend to gravitate toward problems that sit between technical systems and human behavior.
+
+Outside of work, I spend an unhealthy amount of time thinking about music and fashion, going down internet rabbit holes, and showing up to lectures or events that seem interesting. My name is also digitally stored on NASA’s Parker Solar Probe, currently orbiting the Sun. I should thank my high school self for signing up for that in 2018.
+
+Always happy to connect.
 
 ## About Me
 
 - Economics graduate from Vanderbilt University (minors in Business and Data Science)
 - Analyst at Nomura | Instinet Technology Solutions (SaaS + Equity Trading)
 - Hands-on with Tableau, Python, SQL, and agile workflows in cross-functional tech environments
-- Based in NYC | Open to roles in data, strategy, or product analytics
+- Based in NYC
 
 ## Technical Skills
 
