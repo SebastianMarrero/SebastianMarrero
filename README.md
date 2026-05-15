@@ -1,7 +1,8 @@
 # Hi, I'm Sebastian Marrero
 
 Welcome to my GitHub. I’m interested in the intersection of AI, commerce, and design. I'm especially drawn to the kinds of products that remove complexity and make complicated systems feel intuitive.
-Lately I’ve been building Archive, a natural language search engine for archive and vintage menswear. I originally built it out of frustration with how fragmented the resale market felt across different platforms. It now searches across 15 resale marketplaces and luxury fashion retailers, uses the Claude API to interpret natural language queries, and includes AI-assisted pricing suggestions. 
+
+Lately, I’ve been building Archive, a natural language search engine for archive and vintage menswear. I originally built it out of frustration with how fragmented the resale market felt across different platforms. It now searches across 15 resale marketplaces and luxury fashion retailers, uses the Claude API to interpret natural language queries, and includes AI-assisted pricing suggestions. 
 
 Before that, I worked at Instinet, part of Nomura Securities, where I sat close to the intersection of financial markets, technology, and software product development. The work ranged from electronic trading infrastructure and client analytics to collaborating across software engineering and product teams. I hold Series 7, 57, and 63 licenses and graduated from Vanderbilt University in 2023 with a degree in Economics and minors in Business and Data Science after transferring from community college.
 
