@@ -1,6 +1,6 @@
 # Hi, I'm Sebastian Marrero
 
-Welcome to my GitHub. I’m interested in the intersection of AI, commerce, and design. I'm especially drawn to the kinds of products that remove complexity and make complicated systems feel intuitive.
+Welcome to my GitHub. I’m interested in the intersection of AI, strategy, and product. I'm especially drawn to the kinds of products that remove complexity and make complicated systems feel intuitive.
 
 Lately, I’ve been building Archive, a natural language search engine for archive and vintage menswear. I originally built it out of frustration with how fragmented the resale market felt across different platforms. It now searches across 15 resale marketplaces and luxury fashion retailers, uses the Claude API to interpret natural language queries, and includes AI-assisted pricing suggestions. 
 
